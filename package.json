@@ -1,0 +1,11 @@
+{
+  "name": "transport-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser-based transport system: routes, vehicles, trips and seat booking.",
+  "license": "UNLICENSED",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test transport.test.js"
+  }
+}
